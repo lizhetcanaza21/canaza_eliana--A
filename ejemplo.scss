@@ -9,13 +9,13 @@ header, footer {
 
 @mixin backgroundred {
   background-color: red;
-  border: 1px solid blue;
+  border: 1px solid rgb(207, 30, 104);
   font-size: 20px;
 }
 
 
 .layout_a {
-  color: #c3c1c1;
+  color: #a9d41c;
   &:hover {
     text-decoration: underline;
     color: #FFF;
